@@ -169,7 +169,9 @@ for (const annotation of annotations.toArray()) {
 ```
 
 ## 📸 Demo
-<img width="3840" height="2088" alt="Annotation-Filter-by-date" src="https://github.com/user-attachments/assets/96357364-5732-44f9-9d44-31c0eabf53f2" />
+
+https://github.com/user-attachments/assets/c0ccc16e-13d8-49e6-9661-ee1683b0277f
+
 
 ## 🛠️ Available Scripts
 
