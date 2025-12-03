@@ -38,8 +38,8 @@ The implementation demonstrates best practices for:
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repository-url>
-   cd nutrient-vite-cdn-general-thronics-annotation-filter-date
+   git clone https://github.com/Narashiman-K/nutrient-annotation-filter-based-on-date-created.git
+   cd nutrient-annotation-filter-based-on-date-created
    ```
 
 2. **Install dependencies**
@@ -169,16 +169,7 @@ for (const annotation of annotations.toArray()) {
 ```
 
 ## 📸 Demo
-
-### Screenshots
-
-<!-- Add your screenshots here -->
-_Coming soon..._
-
-### Video Demo
-
-<!-- Add your video demo here -->
-_Coming soon..._
+<img width="3840" height="2088" alt="Annotation-Filter-by-date" src="https://github.com/user-attachments/assets/96357364-5732-44f9-9d44-31c0eabf53f2" />
 
 ## 🛠️ Available Scripts
 
